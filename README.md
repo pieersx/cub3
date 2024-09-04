@@ -2,8 +2,7 @@
 Rotation cube 3D
 
 # Demo
-https://github.com/user-attachments/assets/129e33dc-c1ca-4f07-9a91-4a3595872a56
-
+https://github.com/user-attachments/assets/b691390d-ebf8-45da-a8ac-6a2977806a90
 
 # Build From Source
 ```bash
