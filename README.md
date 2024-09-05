@@ -2,7 +2,7 @@
 Rotation cube 3D
 
 # Demo
-https://github.com/user-attachments/assets/b691390d-ebf8-45da-a8ac-6a2977806a90
+![output-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2eee0529-8367-43ae-9e9b-9c881f2db4ba)
 
 # Build From Source
 ```bash
